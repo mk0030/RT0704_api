@@ -1,0 +1,38 @@
+[
+    {
+        "id": "4793924b-3495-48ab-9a01-5fa0fc231ef1",
+        "titre": "Spiderman: no way home",
+        "realisateur": "toto",
+        "annee": "2024",
+        "genre": "Action",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "url_image": "static/images/4793924b-3495-48ab-9a01-5fa0fc231ef1.jpg"
+    },
+    {
+        "id": "7294c630-dd59-484a-bd41-910bff050d76",
+        "titre": "The great gatsby",
+        "realisateur": "toto",
+        "annee": "2024",
+        "genre": "Drame",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "url_image": "static/images/7294c630-dd59-484a-bd41-910bff050d76.jpg"
+    },
+    {
+        "id": "45c3d0d2-b5c2-4055-a11a-5d82e368ab24",
+        "titre": "The greatest showman",
+        "realisateur": "toto",
+        "annee": "2024",
+        "genre": "Action",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "url_image": "static/images/5b68f15f-a48d-4793-a85f-7dc20bfac5e5.jpeg"
+    },
+    {
+        "id": "874c8ed6-9f67-4410-a42b-7880f8898c9b",
+        "titre": "Black panther",
+        "realisateur": "toto",
+        "annee": "2024",
+        "genre": "Action",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "url_image": "static/images/874c8ed6-9f67-4410-a42b-7880f8898c9b.jpg"
+    }
+]
